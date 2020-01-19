@@ -1,0 +1,3 @@
+WorkBased,2000_temp,500_,1000_
+JOB
+exe,docx,xlsx,vsdx,pptx,sln,xls
